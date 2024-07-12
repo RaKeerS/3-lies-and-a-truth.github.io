@@ -1,7 +1,0 @@
-{
-  "version": 3,
-  "sources": ["src/app/views/playground-game-initiation/playground-game-initiation.component.scss"],
-  "sourcesContent": ["// Hiding vertical scrollbar at html viewport\r\n::ng-deep {\r\n  :root {\r\n    overflow-y: hidden !important;\r\n  }\r\n}\r\n\r\n\r\n:host {\r\n  &::ng-deep {\r\n    .player-buttons {\r\n      // inline-size: 12rem;\r\n      opacity: 1;\r\n      .p-button {\r\n        inline-size: 12rem;\r\n      }\r\n    }\r\n  }\r\n}\r\n\r\n.toss-players {\r\n  display: flex;\r\n  justify-content: space-between;\r\n  padding: 1rem 0;\r\n}\r\n\r\n.button-highlight {\r\n  background: rgba(255, 224, 130, 0.16);\r\n  color: #ffe082;\r\n  border-radius: 2rem;\r\n  border: 1px solid;\r\n  box-shadow: 0 0 0 1px #ffecb3;\r\n}\r\n\r\n.custom-timer {\r\n  width: 15%;\r\n  opacity: 1;\r\n}\r\n"],
-  "mappings": ";AAEE,UAAA;AACE,cAAA;;AAOA,KAAA,UAAA,CAAA;AAEE,WAAA;;AACA,KAAA,UAAA,CAHF,eAGE,CAAA;AACE,eAAA;;AAMR,CAAA;AACE,WAAA;AACA,mBAAA;AACA,WAAA,KAAA;;AAGF,CAAA;AACE,cAAA,KAAA,GAAA,EAAA,GAAA,EAAA,GAAA,EAAA;AACA,SAAA;AACA,iBAAA;AACA,UAAA,IAAA;AACA,cAAA,EAAA,EAAA,EAAA,IAAA;;AAGF,CAAA;AACE,SAAA;AACA,WAAA;;",
-  "names": []
-}

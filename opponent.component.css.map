@@ -1,7 +1,0 @@
-{
-  "version": 3,
-  "sources": ["src/app/views/opponent/opponent.component.scss"],
-  "sourcesContent": [":host {\r\n  &::ng-deep {\r\n    .opponent-cards {\r\n      .p-card-body {\r\n        padding: 0%;\r\n        box-shadow: 0px -6px 5px 0px black;\r\n        .p-card-content {\r\n          padding: 0%;\r\n        }\r\n      }\r\n    }\r\n  }\r\n}\r\n\r\n.inline-size-15rem {\r\n  inline-size: 15rem;\r\n}\r\n\r\n.block-size-24rem {\r\n  block-size: 24rem;\r\n}\r\n\r\n.border-radius-6px {\r\n  border-radius: 6px;\r\n}\r\n"],
-  "mappings": ";AAGM,KAAA,UAAA,CAAA,eAAA,CAAA;AACE,WAAA;AACA,cAAA,IAAA,KAAA,IAAA,IAAA;;AACA,KAAA,UAAA,CAHF,eAGE,CAHF,YAGE,CAAA;AACE,WAAA;;AAOV,CAAA;AACE,eAAA;;AAGF,CAAA;AACE,cAAA;;AAGF,CAAA;AACE,iBAAA;;",
-  "names": []
-}
